@@ -1,2 +1,2 @@
 # hello-tshoppa
-Try out repository
+Greetings, earthlings!
