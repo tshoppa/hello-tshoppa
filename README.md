@@ -1,2 +1,2 @@
 # hello-tshoppa
-Greetings, newly arrived earthlings!
+Greetings, locally arrived earthlings!
